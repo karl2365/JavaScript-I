@@ -19,7 +19,7 @@ interns.push({id:1,email:"mmelloy0@psu.edu",name:"Mitzi",gender:"F"});
 interns.push({id:2,email:"kdiben1@tinypic.com",name:"Kennan",gender:"M", speak() {console.log("Hello, my name ks Keenan")}});
 interns.push({id:3,email:"kmummery2@wikimedia.org",name:"Keven",gender:"M"});
 interns.push({id:4,email:"gmartinson3@illinois.edu",name:"Gannie",gender:"M"});
-interns.push({id:5,email:"adaine5@samsung.com",name:"Antonietta",gender:"F", multiplyNums(num1,num2) {console.log(num1*num2)} });
+interns.push({id:5,email:"adaine5@samsung.com",name:"Antonietta",gender:"F", multiplyNums(num1,num2) {console.log(num1*num2)}});
 
 
 // ==== Challenge 2: Reading Object Data ==== 
@@ -48,6 +48,7 @@ interns[1].speak();
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
 //console.log(
   interns[4].multiplyNums(3,4);
+  
 
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
 
